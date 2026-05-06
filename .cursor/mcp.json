@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "redmine-all-in-one": {
+      "command": "node",
+      "args": ["${workspaceFolder}/index.js"],
+      "cwd": "${workspaceFolder}"
+    }
+  }
+}
