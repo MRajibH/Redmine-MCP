@@ -157,4 +157,4 @@ After upgrading `index.js`, **reload MCP servers** in Cursor so new/changed tool
 
 ## License
 
-ISC (see `package.json`). This README describes integration only; Redmine is a separate project under its own license.
+MIT (see `LICENSE`). Dependencies retain their own licenses; Redmine is a separate project under its own license.
